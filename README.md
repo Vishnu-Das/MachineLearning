@@ -53,8 +53,8 @@ A personal repository documenting my hands-on exploration of core Machine Learni
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Vishnu-Das/MachineLearning.git
+cd MachineLearning
 
 # Activate the virtual environment
 # On Windows:
